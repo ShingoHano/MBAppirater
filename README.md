@@ -1,7 +1,13 @@
 MBAppirater
 ===========
 
-Introduction
+By modifying to the MBAlertView UIAlertview of Appirater, 
+effects such as the following has been implemented.
+
+1. Display indicator and message.
+2. Display customized alert.
+3. Display short message depending on the selection.
+
 
 Configuration
 
