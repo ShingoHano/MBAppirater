@@ -1,7 +1,8 @@
 MBAppirater
 ======================
 
-Only by modifying UIAlertview of Appirater to the MBAlertView.
+Only by combinin UIAlertview of Appirater to the MBAlertView.  
+I have a modified slightly "Appirater.m" and "MBAlertView.m" , "MBAlertAbstract.m" , "MBHUBView.m" .  
 
 ![Alt text](http://nntp.ie-t.net/images/MBAppirater1.png)
 ![Alt text](http://nntp.ie-t.net/images/MBAppirater3.png)
@@ -54,7 +55,10 @@ License
 Appirater
 
 
-`MIT/X11`
+`Copyright 2012. Arash Payan. This library is distributed under the terms of the MIT/X11.`  
+
+`While not required, I greatly encourage and appreciate any improvements`  
+`that you make to this library be contributed back for the benefit of all who use Appirater.`  
 
 
 MBAlertView
