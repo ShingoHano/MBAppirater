@@ -4,9 +4,9 @@ MBAppirater
 Only by combinin UIAlertview of Appirater to the MBAlertView.  
 I have a modified slightly "Appirater.m" and "MBAlertView.m" , "MBAlertAbstract.m" , "MBHUBView.m" .  
 
-![Alt text](http://nntp.ie-t.net/images/MBAppirater1.png)
-![Alt text](http://nntp.ie-t.net/images/MBAppirater3.png)
-![Alt text](http://nntp.ie-t.net/images/MBAppirater2.png)
+![Alt text](http://priolo.wktk.so/images/MBAppirater1.png)
+![Alt text](http://priolo.wktk.so/images/MBAppirater3.png)
+![Alt text](http://priolo.wktk.so/images/MBAppirater2.png)
 
 
 Features
